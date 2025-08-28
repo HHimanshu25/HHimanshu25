@@ -1,6 +1,6 @@
 Hello, I am Himanshhu kumawat
 
--I am love web designing.  
+-I love web designing.  
 -I am a frontent Developer.  
 -I am currently learning JavaSript.
 
