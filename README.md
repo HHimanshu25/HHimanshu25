@@ -1,9 +1,8 @@
-Hello, I am Himanshhu kumawat
+Hello, I am Himanshhu Kumawat.
 
--I love web designing.  
--I am a frontent Developer.  
--I am currently learning JavaSript.
-
+I love web designing.
+I am a frontend developer.
+I am currently learning JavaScript.
 <!--
 **HHimanshu25/HHimanshu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
