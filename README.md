@@ -1,18 +1,41 @@
-Hello, I am Himanshhu Kumawat.
+## 👋 Hi, I'm Himanshu Kumawat
 
-I love web designing.  
-I am a frontend developer.  
-I am currently learning JavaScript.  
-<!--
-**HHimanshu25/HHimanshu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+💻 Frontend Developer (Learning Phase)  
+🎨 Passionate about Web Design & UI  
+📍 India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- I love building small web projects using **HTML, CSS, and JavaScript**
+- Currently focusing on **JavaScript fundamentals** and DOM manipulation
+- Interested in **frontend frameworks (React.js – upcoming)**
+- I enjoy solving problems and improving UI/UX
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code  
+- **Learning:** JavaScript (Advanced), React.js
+
+---
+
+### 📂 Projects
+- **Netflix Copy** – Responsive UI clone using HTML & CSS  
+- **Tic Tac Toe** – Game logic with JavaScript  
+- **Stone Paper Scissors** – Beginner JS project focusing on conditions & events  
+
+👉 Check my repositories to see my work!
+
+---
+
+### 📈 Goals for 2026
+- Master JavaScript
+- Build 5+ real-world frontend projects
+- Start React.js
+- Learn Git & GitHub deeply
+
+---
+
+⭐ If you like my work, consider giving a star!
