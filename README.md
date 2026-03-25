@@ -1,40 +1,56 @@
 ## 👋 Hi, I'm Himanshu Kumawat
 
-💻 Frontend Developer (Learning Phase)  
-🎨 Passionate about Web Design & UI  
-📍 India  
+💻 Full-Stack Developer (Early Intermediate)
+🎨 Passionate about Web Development & UI/UX
+📍 India
 
 ---
 
 ### 🚀 About Me
-- I love building small web projects using **HTML, CSS, and JavaScript**
-- Currently focusing on **JavaScript fundamentals** and DOM manipulation
-- Interested in **frontend frameworks (React.js – upcoming)**
-- I enjoy solving problems and improving UI/UX
+
+* I build real-world web applications using **HTML, CSS, JavaScript, Node.js, and MongoDB**
+* Experienced in creating **authentication systems and CRUD-based apps**
+* Currently improving **backend structure, security, and clean code practices**
+* Learning **React.js** to move towards modern frontend development
+* I enjoy solving problems and turning ideas into working applications
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript  
-- **Tools:** Git, GitHub, VS Code  
-- **Learning:** JavaScript (Advanced), React.js
+
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Tools:** Git, GitHub, VS Code
+* **Currently Learning:** React.js, Advanced JavaScript, Backend Architecture
 
 ---
 
 ### 📂 Projects
-- **Netflix Copy** – Responsive UI clone using HTML & CSS  
-- **Tic Tac Toe** – Game logic with JavaScript  
-- **Stone Paper Scissors** – Beginner JS project focusing on conditions & events  
 
-👉 Check my repositories to see my work!
+* **Notes App + Authentication**
+  → Full-stack app with login/signup and user-specific notes (CRUD operations)
+
+* **Netflix UI Clone**
+  → Responsive UI built using HTML & CSS
+
+* **Tic Tac Toe**
+  → Game logic implemented using JavaScript
+
+* **Stone Paper Scissors**
+  → Beginner-friendly logic-based project using JS
+
+👉 Check my repositories to explore my work!
 
 ---
 
 ### 📈 Goals for 2026
-- Master JavaScript
-- Build 5+ real-world frontend projects
-- Start React.js
-- Learn Git & GitHub deeply
+
+* Master **JavaScript (Advanced Concepts)**
+* Build **5+ full-stack projects with proper structure & security**
+* Become confident in **React.js**
+* Improve **problem-solving & debugging skills**
+* Learn **clean code & scalable backend design**
 
 ---
 
